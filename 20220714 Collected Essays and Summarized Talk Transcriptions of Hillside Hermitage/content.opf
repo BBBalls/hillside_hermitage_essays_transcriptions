@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:language>en</dc:language>
+    <dc:title>Collected Essays &amp; Summarized Talk Transcriptions of Hillside Hermitage</dc:title>
+    <dc:creator>Ajahn Nyanamoli Thero</dc:creator>
+    <dc:subject>ajahn chah, anagami, anatta, arahant, bhavana, buddhist meditation, buddhist philosophy, danger in sensuality, dhamma meditation, dhamma practice, dhamma talk, dukkha, early suttas, five hindrances, forest monk, forest monks, four jhanas, hindrances, jhana, mindfulness, nanavira thera, nibbana, ownership, pali suttas, right view, sotapanna, sotapatti, sutta reading, sutta simile, sutta study, suttas, theravada suttas</dc:subject>
+    <dc:description>Essays and dhamma talk transcriptions by Ajahn Nyanamoli Thero on various topics of Buddhist meditation practice based on early suttas, mindfulness and right view.</dc:description>
+    <meta content="1.9.10" name="Sigil version"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2022-07-14</dc:date>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:383e44e9-f6c1-48cd-b5df-96b2e45b3fea</dc:identifier>
+    <meta name="cover" content="Collected_Essays__Summarized_Talk_Transcriptions_of_Hillside_Hermitage.png"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="abbreviations.xhtml" href="Text/abbreviations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Collected_Essays__Summarized_Talk_Transcriptions_of_Hillside_Hermitage.png" href="Images/Collected%20Essays%20%26%20Summarized%20Talk%20Transcriptions%20of%20Hillside%20Hermitage.png" media-type="image/png"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="essays_text.xhtml" href="Text/essays_text.xhtml" media-type="application/xhtml+xml"/>
+    <item id="essays_title.xhtml" href="Text/essays_title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="glossary.xhtml" href="Text/glossary.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Index.xhtml" href="Text/Index.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml"/>
+    <item id="preamble.xhtml" href="Text/preamble.xhtml" media-type="application/xhtml+xml"/>
+    <item id="titlepage.xhtml" href="Text/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="transcriptions_1-50.xhtml" href="Text/transcriptions_1-50.xhtml" media-type="application/xhtml+xml"/>
+    <item id="transcriptions_51-100.xhtml" href="Text/transcriptions_51-100.xhtml" media-type="application/xhtml+xml"/>
+    <item id="transcriptions_101-150.xhtml" href="Text/transcriptions_101-150.xhtml" media-type="application/xhtml+xml"/>
+    <item id="transcriptions_151-200.xhtml" href="Text/transcriptions_151-200.xhtml" media-type="application/xhtml+xml"/>
+    <item id="transcriptions_201-250.xhtml" href="Text/transcriptions_201-250.xhtml" media-type="application/xhtml+xml"/>
+    <item id="transcriptions_251-300.xhtml" href="Text/transcriptions_251-300.xhtml" media-type="application/xhtml+xml"/>
+    <item id="transcription_title.xhtml" href="Text/transcription_title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="style.css" href="Styles/style.css" media-type="text/css"/>
+    <item id="Literata-Black.ttf" href="Fonts/Literata-Black.ttf" media-type="font/ttf"/>
+    <item id="Literata-BlackItalic.ttf" href="Fonts/Literata-BlackItalic.ttf" media-type="font/ttf"/>
+    <item id="Literata-Bold.ttf" href="Fonts/Literata-Bold.ttf" media-type="font/ttf"/>
+    <item id="Literata-BoldItalic.ttf" href="Fonts/Literata-BoldItalic.ttf" media-type="font/ttf"/>
+    <item id="Literata-ExtraBold.ttf" href="Fonts/Literata-ExtraBold.ttf" media-type="font/ttf"/>
+    <item id="Literata-ExtraBoldItalic.ttf" href="Fonts/Literata-ExtraBoldItalic.ttf" media-type="font/ttf"/>
+    <item id="Literata-ExtraLight.ttf" href="Fonts/Literata-ExtraLight.ttf" media-type="font/ttf"/>
+    <item id="Literata-ExtraLightItalic.ttf" href="Fonts/Literata-ExtraLightItalic.ttf" media-type="font/ttf"/>
+    <item id="Literata-Italic.ttf" href="Fonts/Literata-Italic.ttf" media-type="font/ttf"/>
+    <item id="Literata-Light.ttf" href="Fonts/Literata-Light.ttf" media-type="font/ttf"/>
+    <item id="Literata-LightItalic.ttf" href="Fonts/Literata-LightItalic.ttf" media-type="font/ttf"/>
+    <item id="Literata-Medium.ttf" href="Fonts/Literata-Medium.ttf" media-type="font/ttf"/>
+    <item id="Literata-MediumItalic.ttf" href="Fonts/Literata-MediumItalic.ttf" media-type="font/ttf"/>
+    <item id="Literata-Regular.ttf" href="Fonts/Literata-Regular.ttf" media-type="font/ttf"/>
+    <item id="Literata-SemiBold.ttf" href="Fonts/Literata-SemiBold.ttf" media-type="font/ttf"/>
+    <item id="Literata-SemiBoldItalic.ttf" href="Fonts/Literata-SemiBoldItalic.ttf" media-type="font/ttf"/>
+    <item id="OFL_Lieterata.txt" href="Misc/OFL_Lieterata.txt" media-type="text/plain"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="titlepage.xhtml"/>
+    <itemref idref="preamble.xhtml"/>
+    <itemref idref="nav.xhtml"/>
+    <itemref idref="essays_title.xhtml"/>
+    <itemref idref="essays_text.xhtml"/>
+    <itemref idref="transcription_title.xhtml"/>
+    <itemref idref="transcriptions_1-50.xhtml"/>
+    <itemref idref="transcriptions_51-100.xhtml"/>
+    <itemref idref="transcriptions_101-150.xhtml"/>
+    <itemref idref="transcriptions_151-200.xhtml"/>
+    <itemref idref="transcriptions_201-250.xhtml"/>
+    <itemref idref="transcriptions_251-300.xhtml"/>
+    <itemref idref="abbreviations.xhtml"/>
+    <itemref idref="glossary.xhtml"/>
+    <itemref idref="Index.xhtml"/>
+  </spine>
+</package>

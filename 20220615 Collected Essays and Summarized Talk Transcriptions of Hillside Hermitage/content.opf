@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:language>en</dc:language>
+    <dc:title>Collected Essays &amp; Summarized Talk Transcriptions of Hillside Hermitage</dc:title>
+    <dc:creator opf:role="aut">Ajahn Nyanamoli Thero</dc:creator>
+    <dc:description>Essays and dhamma talk transcriptions by Ajahn Nyanamoli Thero on various topics of Buddhist meditation practice based on early suttas, mindfulness and right view.</dc:description>
+    <dc:subject>ajahn chah, anagami, anatta, arahant, bhavana, buddhist meditation, buddhist philosophy, danger in sensuality, dhamma meditation, dhamma practice, dhamma talk, dukkha, early suttas, five hindrances, forest monk, forest monks, four jhanas, hindrances, jhana, mindfulness, nanavira thera, nibbana, ownership, pali suttas, right view, sotapanna, sotapatti, sutta reading, sutta simile, sutta study, suttas, theravada suttas</dc:subject>
+    <meta content="1.9.10" name="Sigil version"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2022-06-16</dc:date>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:b0be2e0f-d3b7-4644-9647-d9f9dc12bd33</dc:identifier>
+    <meta name="cover" content="Collected_Essays__Summarized_Talk_Transcriptions_of_Hillside_Hermitage.png"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="With_birth_Death_applies.html" href="Text/With%20birth%2C%20Death%20applies.html" media-type="application/xhtml+xml"/>
+    <item id="The_Necessity_of_Celibacy.html" href="Text/The%20Necessity%20of%20Celibacy.html" media-type="application/xhtml+xml"/>
+    <item id="The_Infinity_of_The_Mind_Notes_on_AN_1.51.html" href="Text/The%20Infinity%20of%20The%20Mind%20%28Notes%20on%20AN%201.51%29.html" media-type="application/xhtml+xml"/>
+    <item id="Summarized_Transcriptions.html" href="Text/Summarized%20Transcriptions.html" media-type="application/xhtml+xml"/>
+    <item id="Resistance_and_Designation_Notes_on_DN_15.html" href="Text/Resistance%20and%20Designation%20%28Notes%20on%20DN%2015%29.html" media-type="application/xhtml+xml"/>
+    <item id="Peripheral_Awareness.html" href="Text/Peripheral%20Awareness.html" media-type="application/xhtml+xml"/>
+    <item id="Papanca-Sanna-Sankha.html" href="Text/Papañca-Saññā-Sankhā.html" media-type="application/xhtml+xml"/>
+    <item id="On_Nanavira_Theras_Notes_on_Dhamma_Anicca.html" href="Text/On%20Nanavira%20Theras%20Notes%20on%20Dhamma%20Anicca.html" media-type="application/xhtml+xml"/>
+    <item id="Not_Perceiving_the_Feeling_Notes_on_MN_43.html" href="Text/Not%20Perceiving%20the%20Feeling%20%28Notes%20on%20MN%2043%29.html" media-type="application/xhtml+xml"/>
+    <item id="Notes_on_Meditation_newer_version.html" href="Text/Notes%20on%20Meditation%20%28newer%20version%29.html" media-type="application/xhtml+xml"/>
+    <item id="Intentions_Behind_Ones_Actions.html" href="Text/Intentions%20Behind%20One’s%20Actions.html" media-type="application/xhtml+xml"/>
+    <item id="Hierarchy_of_Awareness.html" href="Text/Hierarchy%20of%20Awareness.html" media-type="application/xhtml+xml"/>
+    <item id="Feelings_are_Suffering.html" href="Text/Feelings%20are%20Suffering.html" media-type="application/xhtml+xml"/>
+    <item id="Existence_Means_Control.html" href="Text/Existence%20Means%20Control.html" media-type="application/xhtml+xml"/>
+    <item id="Essays.html" href="Text/Essays.html" media-type="application/xhtml+xml"/>
+    <item id="Determining_Determinations.html" href="Text/Determining%20Determinations.html" media-type="application/xhtml+xml"/>
+    <item id="Breathing_Towards_Death.html" href="Text/Breathing%20Towards%20Death.html" media-type="application/xhtml+xml"/>
+    <item id="Appearance_and_Existence.html" href="Text/Appearance%20and%20Existence.html" media-type="application/xhtml+xml"/>
+    <item id="x258hh-_Simile_of_The_Sons_Flesh.html" href="Text/258hh-%20Simile%20of%20The%20Sons%20Flesh.html" media-type="application/xhtml+xml"/>
+    <item id="x257hh-_Only_The_Noble_Truth_Of_Pain.html" href="Text/257hh-%20Only%20The%20Noble%20Truth%20Of%20Pain.html" media-type="application/xhtml+xml"/>
+    <item id="x247hh-_Discerning_The_Body_For_Uprooting_Of_Sensuality.html" href="Text/247hh-%20Discerning%20The%20Body%20For%20Uprooting%20Of%20Sensuality.html" media-type="application/xhtml+xml"/>
+    <item id="x236hh-_Desire_to_end_desire.html" href="Text/236hh-%20Desire%20to%20end%20desire.html" media-type="application/xhtml+xml"/>
+    <item id="x230hh-_Stilling_Of_All_Activities.html" href="Text/230hh-%20Stilling%20Of%20All%20Activities.html" media-type="application/xhtml+xml"/>
+    <item id="x223hh-_Practice_Of_Generosity.html" href="Text/223hh-%20Practice%20Of%20Generosity.html" media-type="application/xhtml+xml"/>
+    <item id="x210hh-_How_To_Let_Go_-_How_to_let_go.html" href="Text/210hh-%20How%20To%20Let%20Go%20-%20How%20to%20let%20go.html" media-type="application/xhtml+xml"/>
+    <item id="x206hh-_The_Pleasure_of_Non-Activity.html" href="Text/206hh-%20The%20Pleasure%20of%20Non-Activity.html" media-type="application/xhtml+xml"/>
+    <item id="x205hh-_Jhana_Is_A_Lifestyle.html" href="Text/205hh-%20Jhana%20Is%20A%20Lifestyle.html" media-type="application/xhtml+xml"/>
+    <item id="x203hh-_The_Truth_About_The_Five_Hindrances.html" href="Text/203hh-%20The%20Truth%20About%20The%20Five%20Hindrances.html" media-type="application/xhtml+xml"/>
+    <item id="x202hh-_Nibbana_Is_The_Ultimate_Uncertainty.html" href="Text/202hh-%20Nibbana%20Is%20The%20Ultimate%20Uncertainty.html" media-type="application/xhtml+xml"/>
+    <item id="x200hh-_Gateway_To_Nibbana.html" href="Text/200hh-%20Gateway%20To%20Nibbana.html" media-type="application/xhtml+xml"/>
+    <item id="x199hh-_The_Uprooting_Of_Your_Suffering.html" href="Text/199hh-%20The%20Uprooting%20Of%20Your%20Suffering.html" media-type="application/xhtml+xml"/>
+    <item id="x198hh-_In_The_Seen_Just_The_Seen.html" href="Text/198hh-%20In%20The%20Seen%20Just%20The%20Seen.html" media-type="application/xhtml+xml"/>
+    <item id="x185hh-_Samsara_Is_Directly_Visible.html" href="Text/185hh-%20Samsara%20Is%20Directly%20Visible.html" media-type="application/xhtml+xml"/>
+    <item id="x183hh-_Becoming_An_Immovable_Object.html" href="Text/183hh-%20Becoming%20An%20Immovable%20Object.html" media-type="application/xhtml+xml"/>
+    <item id="x173hh-_Dukkha_in_Anicca_Anatta_in_Dukkha.html" href="Text/173hh-%20Dukkha%20in%20Anicca%2C%20Anatta%20in%20Dukkha.html" media-type="application/xhtml+xml"/>
+    <item id="x171hh-_The_Beautiful_side_of_Ugly_the_Living_side_of_Death.html" href="Text/171hh-%20The%20Beautiful%20side%20of%20Ugly%2C%20the%20Living%20side%20of%20Death.html" media-type="application/xhtml+xml"/>
+    <item id="x170hh-_How_to_Develop_Solitude.html" href="Text/170hh-%20How%20to%20Develop%20Solitude.html" media-type="application/xhtml+xml"/>
+    <item id="x169hh-_The_Context_Of_Your_Suffering.html" href="Text/169hh-%20The%20Context%20Of%20Your%20Suffering.html" media-type="application/xhtml+xml"/>
+    <item id="x168hh-_The_Contradiction_in_the_Unwholesome.html" href="Text/168hh-%20The%20Contradiction%20in%20the%20Unwholesome.html" media-type="application/xhtml+xml"/>
+    <item id="x155hh-_You_Dont_Need_To_Say_No_To_Everything.html" href="Text/155hh-%20You%20Don%27t%20Need%20To%20Say%20No%20To%20Everything.html" media-type="application/xhtml+xml"/>
+    <item id="x150hh-_Valuing_Sense_Pleasures_Makes_You_An_Addict.html" href="Text/150hh-%20Valuing%20Sense%20Pleasures%20Makes%20You%20An%20Addict.html" media-type="application/xhtml+xml"/>
+    <item id="x83hh_-_Dont_be_faithful_to_ignorance.html" href="Text/83hh%20-%20Dont%20be%20faithful%20to%20ignorance.html" media-type="application/xhtml+xml"/>
+    <item id="x71hh-_Ajahn_Chah_and_the_Original_Mind.html" href="Text/71hh-%20Ajahn%20Chah%20and%20the%20Original%20Mind.html" media-type="application/xhtml+xml"/>
+    <item id="x67hh-_Comprehending_The_Mindfulness_Of_Breathing_And_Death_Contemplation.html" href="Text/67hh-%20Comprehending%20The%20Mindfulness%20Of%20Breathing%20And%20Death%20Contemplation.html" media-type="application/xhtml+xml"/>
+    <item id="x54hh-_Not_Wanting_the_Wanting.html" href="Text/54hh-%20Not%20Wanting%20the%20Wanting.html" media-type="application/xhtml+xml"/>
+    <item id="x51hh-_Guided_Contemplation_-_At_The_Old_Guards_Cave.html" href="Text/51hh-%20Guided%20Contemplation%20-%20At%20The%20Old%20Guards%20Cave.html" media-type="application/xhtml+xml"/>
+    <item id="x41hh-_Contemplation_and_Awareness.html" href="Text/41hh-%20Contemplation%20and%20Awareness.html" media-type="application/xhtml+xml"/>
+    <item id="x30hh-_Four_Noble_Truths.html" href="Text/30hh-%20Four%20Noble%20Truths.html" media-type="application/xhtml+xml"/>
+    <item id="x10hh-_No_One_Wants_Sensuality.html" href="Text/10hh-%20No%20One%20Wants%20Sensuality.html" media-type="application/xhtml+xml"/>
+    <item id="x05hh-_Purpose_Of_The_Precepts.html" href="Text/05hh-%20Purpose%20Of%20The%20Precepts.html" media-type="application/xhtml+xml"/>
+    <item id="x29hh-_What_Is_Wisdom.html" href="Text/29hh-%20What%20Is%20Wisdom.html" media-type="application/xhtml+xml"/>
+    <item id="titlepage.html" href="Text/titlepage.html" media-type="application/xhtml+xml"/>
+    <item id="x204hh-_The_Six_Sensed_Animal.html" href="Text/204hh-%20The%20Six%20Sensed%20Animal.html" media-type="application/xhtml+xml"/>
+    <item id="Explanation.html" href="Text/Explanation.html" media-type="application/xhtml+xml"/>
+    <item id="Collected_Essays__Summarized_Talk_Transcriptions_of_Hillside_Hermitage.png" href="Images/Collected%20Essays%20%26%20Summarized%20Talk%20Transcriptions%20of%20Hillside%20Hermitage.png" media-type="image/png"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="style.css" href="Styles/style.css" media-type="text/css"/>
+    <item id="NotoSerif-Bold.ttf" href="Fonts/NotoSerif-Bold.ttf" media-type="font/ttf"/>
+    <item id="NotoSerif-BoldItalic.ttf" href="Fonts/NotoSerif-BoldItalic.ttf" media-type="font/ttf"/>
+    <item id="NotoSerif-Italic.ttf" href="Fonts/NotoSerif-Italic.ttf" media-type="font/ttf"/>
+    <item id="NotoSerif-Regular.ttf" href="Fonts/NotoSerif-Regular.ttf" media-type="font/ttf"/>
+    <item id="OFL_Noto_Serif.txt" href="Misc/OFL_Noto_Serif.txt" media-type="text/plain"/>
+    <item id="x28hh-_Sense_Of_Shame_And_Fear_Of_Wrongdoing.html" href="Text/28hh-%20Sense%20Of%20Shame%20And%20Fear%20Of%20Wrongdoing.html" media-type="application/xhtml+xml"/>
+    <item id="x209hh-_The_Simile_of_the_Wet_Sticks.html" href="Text/209hh-%20The%20Simile%20of%20the%20Wet%20Sticks.html" media-type="application/xhtml+xml"/>
+    <item id="NotoSans-Bold.ttf" href="Fonts/NotoSans-Bold.ttf" media-type="font/ttf"/>
+    <item id="NotoSans-BoldItalic.ttf" href="Fonts/NotoSans-BoldItalic.ttf" media-type="font/ttf"/>
+    <item id="NotoSans-Italic.ttf" href="Fonts/NotoSans-Italic.ttf" media-type="font/ttf"/>
+    <item id="NotoSans-Regular.ttf" href="Fonts/NotoSans-Regular.ttf" media-type="font/ttf"/>
+    <item id="OFL_Noto_sans.txt" href="Misc/OFL_Noto_sans.txt" media-type="text/plain"/>
+    <item id="Pali_Glossary.xhtml" href="Text/Pāli%20Glossary.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Abbreviations.xhtml" href="Text/Abbreviations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x64hh-_Responsibility_Can_Free_You_From_Suffering.html" href="Text/64hh-%20Responsibility%20Can%20Free%20You%20From%20Suffering.html" media-type="application/xhtml+xml"/>
+    <item id="x215hh-_Mindfulness_Of_Breathing_And_Calming_Of_The_Aversion.html" href="Text/215hh-%20Mindfulness%20Of%20Breathing%20And%20Calming%20Of%20The%20Aversion.html" media-type="application/xhtml+xml"/>
+    <item id="x212hh-_How_to_be_Happy.html" href="Text/212hh-%20How%20to%20be%20Happy.html" media-type="application/xhtml+xml"/>
+    <item id="x131hh-_Even_Being_A_Layman_Does_Not_Justify_Your_Sensuality_v2.html" href="Text/131hh-%20Even%20Being%20A%20Layman%20Does%20Not%20Justify%20Your%20Sensuality%20v2.html" media-type="application/xhtml+xml"/>
+    <item id="x70hh-_The_Stream_Entry_of_Ajahn_Chah.html" href="Text/70hh-%20The%20Stream%20Entry%20of%20Ajahn%20Chah.html" media-type="application/xhtml+xml"/>
+    <item id="x235hh-_Escape_From_The_Body.html" href="Text/235hh-%20Escape%20From%20The%20Body.html" media-type="application/xhtml+xml"/>
+    <item id="meanings_gloss.html" href="Text/meanings%20gloss.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="titlepage.html"/>
+    <itemref idref="Explanation.html"/>
+    <itemref idref="Essays.html"/>
+    <itemref idref="Feelings_are_Suffering.html"/>
+    <itemref idref="Existence_Means_Control.html"/>
+    <itemref idref="With_birth_Death_applies.html"/>
+    <itemref idref="Appearance_and_Existence.html"/>
+    <itemref idref="Hierarchy_of_Awareness.html"/>
+    <itemref idref="Papanca-Sanna-Sankha.html"/>
+    <itemref idref="The_Infinity_of_The_Mind_Notes_on_AN_1.51.html"/>
+    <itemref idref="Not_Perceiving_the_Feeling_Notes_on_MN_43.html"/>
+    <itemref idref="Resistance_and_Designation_Notes_on_DN_15.html"/>
+    <itemref idref="Determining_Determinations.html"/>
+    <itemref idref="Notes_on_Meditation_newer_version.html"/>
+    <itemref idref="Breathing_Towards_Death.html"/>
+    <itemref idref="Intentions_Behind_Ones_Actions.html"/>
+    <itemref idref="The_Necessity_of_Celibacy.html"/>
+    <itemref idref="Peripheral_Awareness.html"/>
+    <itemref idref="Summarized_Transcriptions.html"/>
+    <itemref idref="x05hh-_Purpose_Of_The_Precepts.html"/>
+    <itemref idref="x10hh-_No_One_Wants_Sensuality.html"/>
+    <itemref idref="x28hh-_Sense_Of_Shame_And_Fear_Of_Wrongdoing.html"/>
+    <itemref idref="x29hh-_What_Is_Wisdom.html"/>
+    <itemref idref="x30hh-_Four_Noble_Truths.html"/>
+    <itemref idref="On_Nanavira_Theras_Notes_on_Dhamma_Anicca.html"/>
+    <itemref idref="x41hh-_Contemplation_and_Awareness.html"/>
+    <itemref idref="x51hh-_Guided_Contemplation_-_At_The_Old_Guards_Cave.html"/>
+    <itemref idref="x54hh-_Not_Wanting_the_Wanting.html"/>
+    <itemref idref="x64hh-_Responsibility_Can_Free_You_From_Suffering.html"/>
+    <itemref idref="x67hh-_Comprehending_The_Mindfulness_Of_Breathing_And_Death_Contemplation.html"/>
+    <itemref idref="x70hh-_The_Stream_Entry_of_Ajahn_Chah.html"/>
+    <itemref idref="x71hh-_Ajahn_Chah_and_the_Original_Mind.html"/>
+    <itemref idref="x83hh_-_Dont_be_faithful_to_ignorance.html"/>
+    <itemref idref="x131hh-_Even_Being_A_Layman_Does_Not_Justify_Your_Sensuality_v2.html"/>
+    <itemref idref="x150hh-_Valuing_Sense_Pleasures_Makes_You_An_Addict.html"/>
+    <itemref idref="x155hh-_You_Dont_Need_To_Say_No_To_Everything.html"/>
+    <itemref idref="x168hh-_The_Contradiction_in_the_Unwholesome.html"/>
+    <itemref idref="x169hh-_The_Context_Of_Your_Suffering.html"/>
+    <itemref idref="x170hh-_How_to_Develop_Solitude.html"/>
+    <itemref idref="x171hh-_The_Beautiful_side_of_Ugly_the_Living_side_of_Death.html"/>
+    <itemref idref="x173hh-_Dukkha_in_Anicca_Anatta_in_Dukkha.html"/>
+    <itemref idref="x183hh-_Becoming_An_Immovable_Object.html"/>
+    <itemref idref="x185hh-_Samsara_Is_Directly_Visible.html"/>
+    <itemref idref="x198hh-_In_The_Seen_Just_The_Seen.html"/>
+    <itemref idref="x199hh-_The_Uprooting_Of_Your_Suffering.html"/>
+    <itemref idref="x200hh-_Gateway_To_Nibbana.html"/>
+    <itemref idref="x202hh-_Nibbana_Is_The_Ultimate_Uncertainty.html"/>
+    <itemref idref="x203hh-_The_Truth_About_The_Five_Hindrances.html"/>
+    <itemref idref="x204hh-_The_Six_Sensed_Animal.html"/>
+    <itemref idref="x205hh-_Jhana_Is_A_Lifestyle.html"/>
+    <itemref idref="x206hh-_The_Pleasure_of_Non-Activity.html"/>
+    <itemref idref="x209hh-_The_Simile_of_the_Wet_Sticks.html"/>
+    <itemref idref="x210hh-_How_To_Let_Go_-_How_to_let_go.html"/>
+    <itemref idref="x212hh-_How_to_be_Happy.html"/>
+    <itemref idref="x215hh-_Mindfulness_Of_Breathing_And_Calming_Of_The_Aversion.html"/>
+    <itemref idref="x223hh-_Practice_Of_Generosity.html"/>
+    <itemref idref="x230hh-_Stilling_Of_All_Activities.html"/>
+    <itemref idref="x235hh-_Escape_From_The_Body.html"/>
+    <itemref idref="x236hh-_Desire_to_end_desire.html"/>
+    <itemref idref="x247hh-_Discerning_The_Body_For_Uprooting_Of_Sensuality.html"/>
+    <itemref idref="x257hh-_Only_The_Noble_Truth_Of_Pain.html"/>
+    <itemref idref="x258hh-_Simile_of_The_Sons_Flesh.html"/>
+    <itemref idref="Pali_Glossary.xhtml"/>
+    <itemref idref="meanings_gloss.html"/>
+    <itemref idref="Abbreviations.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>

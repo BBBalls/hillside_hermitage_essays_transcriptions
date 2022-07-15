@@ -1,0 +1,221 @@
+/*------------
+ Embed Font
+------------*/
+@font-face {
+  src: url(../Fonts/Literata-Black.ttf);
+  font-family: "Literata";
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  src: url(../Fonts/Literata-BlackItalic.ttf);
+  font-family: "Literata";
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  src: url(../Fonts/Literata-ExtraBold.ttf);
+  font-family: "Literata";
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  src: url(../Fonts/Literata-ExtraBoldItalic.ttf);
+  font-family: "Literata";
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  src: url(../Fonts/Literata-Bold.ttf);
+  font-family: "Literata";
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  src: url(../Fonts/Literata-BoldItalic.ttf);
+  font-family: "Literata";
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  src: url(../Fonts/Literata-SemiBold.ttf);
+  font-family: "Literata";
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  src: url(../Fonts/Literata-SemiBoldItalic.ttf);
+  font-family: "Literata";
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  src: url(../Fonts/Literata-Medium.ttf);
+  font-family: "Literata";
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  src: url(../Fonts/Literata-MediumItalic.ttf);
+  font-family: "Literata";
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  src: url(../Fonts/Literata-Regular.ttf);
+  font-family: "Literata";
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  src: url(../Fonts/Literata-Italic.ttf);
+  font-family: "Literata";
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  src: url(../Fonts/Literata-Light.ttf);
+  font-family: "Literata";
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  src: url(../Fonts/Literata-LightItalic.ttf);
+  font-family: "Literata";
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  src: url(../Fonts/Literata-ExtraLight.ttf);
+  font-family: "Literata";
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  src: url(../Fonts/Literata-ExtraLightItalic.ttf);
+  font-family: "Literata";
+  font-weight: 200;
+  font-style: italic;
+}
+/*------------
+ Layout
+------------*/
+body {
+  font-family: "Literata", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 100%;
+}
+
+p {
+  margin-bottom: 1em;
+  text-indent: 0em;
+}
+
+/*------------
+ blockquote
+------------*/
+blockquote {
+  margin-left: 3em;
+  text-indent: 0em;
+}
+
+.pali {
+  font-weight: 300;
+  font-style: italic;
+  font-size: 1.1em;
+}
+
+.english {
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.1rem;
+}
+
+.reference {
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1em;
+}
+
+/*------------
+ Title Page
+------------*/
+.title {
+  text-align: center;
+  font-size: 2.5em;
+}
+
+.author {
+  text-align: center;
+  font-size: 1.8em;
+}
+
+/*------------
+ TOC
+------------*/
+div.sgc-index-body {
+  margin-left: -2em;
+}
+
+div.sgc-index-entry {
+  margin-top: 0em;
+  margin-bottom: 0.5em;
+  margin-left: 3.5em;
+  text-indent: -1.5em;
+}
+
+div.sgc-index-new-letter {
+  margin-top: 1.5em;
+  margin-left: 1.3em;
+  margin-bottom: 0.5em;
+  font-size: 1.5em;
+  font-weight: bold;
+  border-bottom: solid black 4px;
+  width: 50%;
+  divsgc-toc-level-3margin-left: 2em;
+}
+
+/*------------
+ Index
+------------*/
+.sgc-index-title {
+text-align: center;
+}
+
+div.sgc-index-body {
+  margin-left: -2em;
+}
+
+divsgc-index-entry {
+  margin-top: 0em;
+  margin-bottom: 0.5em;
+  margin-left: 3.5em;
+  text-indent: -1.5em;
+}
+
+div.sgc-index-new-letter {
+  margin-top: 1.5em;
+  margin-left: 1.3em;
+  margin-bottom: 0.5em;
+  font-size: 1.5em;
+  font-weight: bold;
+  border-bottom: solid black 4px;
+  width: 50%;
+}

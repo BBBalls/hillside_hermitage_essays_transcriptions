@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:b0be2e0f-d3b7-4644-9647-d9f9dc12bd33"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Collected Essays &amp;amp; Summarized Talk Transcriptions of Hillside Hermitage</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Collected Essays &amp; Summarized Talk Transcriptions of Hillside Hermitage</text>
+      </navLabel>
+      <content src="Text/titlepage.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Explanation</text>
+        </navLabel>
+        <content src="Text/Explanation.html"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Essays</text>
+        </navLabel>
+        <content src="Text/Essays.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Feelings are Suffering</text>
+        </navLabel>
+        <content src="Text/Feelings%20are%20Suffering.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Existence Means Control</text>
+        </navLabel>
+        <content src="Text/Existence%20Means%20Control.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>With birth, Death applies</text>
+        </navLabel>
+        <content src="Text/With%20birth%2C%20Death%20applies.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Appearance and Existence</text>
+        </navLabel>
+        <content src="Text/Appearance%20and%20Existence.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Hierarchy of Awareness</text>
+        </navLabel>
+        <content src="Text/Hierarchy%20of%20Awareness.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Papañca-Saññā-Sankhā</text>
+        </navLabel>
+        <content src="Text/Papañca-Saññā-Sankhā.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>The Infinity of The Mind (Notes on AN 1.51)</text>
+        </navLabel>
+        <content src="Text/The%20Infinity%20of%20The%20Mind%20%28Notes%20on%20AN%201.51%29.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Not Perceiving the Feeling (Notes on MN 43)</text>
+        </navLabel>
+        <content src="Text/Not%20Perceiving%20the%20Feeling%20%28Notes%20on%20MN%2043%29.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Resistance and Designation (Notes on DN 15)</text>
+        </navLabel>
+        <content src="Text/Resistance%20and%20Designation%20%28Notes%20on%20DN%2015%29.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Determining Determinations</text>
+        </navLabel>
+        <content src="Text/Determining%20Determinations.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Notes on Meditation</text>
+        </navLabel>
+        <content src="Text/Notes%20on%20Meditation%20%28newer%20version%29.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Breathing Towards Death</text>
+        </navLabel>
+        <content src="Text/Breathing%20Towards%20Death.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Intentions Behind One’s Actions</text>
+        </navLabel>
+        <content src="Text/Intentions%20Behind%20One’s%20Actions.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>The Necessity of Celibacy</text>
+        </navLabel>
+        <content src="Text/The%20Necessity%20of%20Celibacy.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Peripheral Awareness</text>
+        </navLabel>
+        <content src="Text/Peripheral%20Awareness.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Summarized Transcriptions</text>
+        </navLabel>
+        <content src="Text/Summarized%20Transcriptions.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>05hh- Purpose Of The Precepts</text>
+        </navLabel>
+        <content src="Text/05hh-%20Purpose%20Of%20The%20Precepts.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>10hh- No One Wants Sensuality</text>
+        </navLabel>
+        <content src="Text/10hh-%20No%20One%20Wants%20Sensuality.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>28hh- Sense Of Shame And Fear Of Wrongdoing</text>
+        </navLabel>
+        <content src="Text/28hh-%20Sense%20Of%20Shame%20And%20Fear%20Of%20Wrongdoing.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>29hh- What Is Wisdom?</text>
+        </navLabel>
+        <content src="Text/29hh-%20What%20Is%20Wisdom.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>30hh- Four Noble Truths</text>
+        </navLabel>
+        <content src="Text/30hh-%20Four%20Noble%20Truths.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>On Nanavira Thera's Notes on Dhamma - &quot;Anicca&quot;</text>
+        </navLabel>
+        <content src="Text/On%20Nanavira%20Theras%20Notes%20on%20Dhamma%20Anicca.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>41hh- Contemplation and Awareness</text>
+        </navLabel>
+        <content src="Text/41hh-%20Contemplation%20and%20Awareness.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>51hh- Guided Contemplation - At The Old Guards Cave</text>
+        </navLabel>
+        <content src="Text/51hh-%20Guided%20Contemplation%20-%20At%20The%20Old%20Guards%20Cave.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>54hh- Not Wanting the Wanting</text>
+        </navLabel>
+        <content src="Text/54hh-%20Not%20Wanting%20the%20Wanting.html"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>64hh- Responsibility Can Free You From Suffering</text>
+        </navLabel>
+        <content src="Text/64hh-%20Responsibility%20Can%20Free%20You%20From%20Suffering.html"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>67hh- Comprehending The Mindfulness Of Breathing And Death Contemplation</text>
+        </navLabel>
+        <content src="Text/67hh-%20Comprehending%20The%20Mindfulness%20Of%20Breathing%20And%20Death%20Contemplation.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>70hh- The Stream Entry of Ajahn Chah</text>
+        </navLabel>
+        <content src="Text/70hh-%20The%20Stream%20Entry%20of%20Ajahn%20Chah.html"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>71hh- Ajahn Chah and the Original Mind</text>
+        </navLabel>
+        <content src="Text/71hh-%20Ajahn%20Chah%20and%20the%20Original%20Mind.html"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>83hh- Don’t Be Faithful to Ignorance</text>
+        </navLabel>
+        <content src="Text/83hh%20-%20Dont%20be%20faithful%20to%20ignorance.html"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>131hh- Even Being A Layman Does Not Justify Your Sensuality</text>
+        </navLabel>
+        <content src="Text/131hh-%20Even%20Being%20A%20Layman%20Does%20Not%20Justify%20Your%20Sensuality%20v2.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>150hh- Valuing Sense Pleasures Makes You An Addict</text>
+        </navLabel>
+        <content src="Text/150hh-%20Valuing%20Sense%20Pleasures%20Makes%20You%20An%20Addict.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>155hh- You Don't Need To Say No To Everything</text>
+        </navLabel>
+        <content src="Text/155hh-%20You%20Don%27t%20Need%20To%20Say%20No%20To%20Everything.html"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>168hh- The Contradiction in the Unwholesome</text>
+        </navLabel>
+        <content src="Text/168hh-%20The%20Contradiction%20in%20the%20Unwholesome.html"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>169hh- The Context Of Your Suffering</text>
+        </navLabel>
+        <content src="Text/169hh-%20The%20Context%20Of%20Your%20Suffering.html"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>170hh- How to Develop Solitude</text>
+        </navLabel>
+        <content src="Text/170hh-%20How%20to%20Develop%20Solitude.html"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>171hh- The Beautiful side of Ugly, the Living side of Death</text>
+        </navLabel>
+        <content src="Text/171hh-%20The%20Beautiful%20side%20of%20Ugly%2C%20the%20Living%20side%20of%20Death.html"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>173hh- Dukkha in Anicca, Anatta in Dukkha</text>
+        </navLabel>
+        <content src="Text/173hh-%20Dukkha%20in%20Anicca%2C%20Anatta%20in%20Dukkha.html"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>183hh- Becoming An Immovable Object</text>
+        </navLabel>
+        <content src="Text/183hh-%20Becoming%20An%20Immovable%20Object.html"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>185hh- Samsara Is Directly Visible</text>
+        </navLabel>
+        <content src="Text/185hh-%20Samsara%20Is%20Directly%20Visible.html"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>198hh- In The Seen Just The Seen</text>
+        </navLabel>
+        <content src="Text/198hh-%20In%20The%20Seen%20Just%20The%20Seen.html"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>199hh- The Uprooting Of Your Suffering</text>
+        </navLabel>
+        <content src="Text/199hh-%20The%20Uprooting%20Of%20Your%20Suffering.html"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>200hh- Gateway To Nibbana</text>
+        </navLabel>
+        <content src="Text/200hh-%20Gateway%20To%20Nibbana.html"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>202hh- Nibbana Is The Ultimate Uncertainty</text>
+        </navLabel>
+        <content src="Text/202hh-%20Nibbana%20Is%20The%20Ultimate%20Uncertainty.html"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>203hh- The Truth About The Five Hindrances</text>
+        </navLabel>
+        <content src="Text/203hh-%20The%20Truth%20About%20The%20Five%20Hindrances.html"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>204hh- The Six Sensed Animal</text>
+        </navLabel>
+        <content src="Text/204hh-%20The%20Six%20Sensed%20Animal.html"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>205hh- Jhana Is A Lifestyle</text>
+        </navLabel>
+        <content src="Text/205hh-%20Jhana%20Is%20A%20Lifestyle.html"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>206hh- The Pleasure of Non-Activity</text>
+        </navLabel>
+        <content src="Text/206hh-%20The%20Pleasure%20of%20Non-Activity.html"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>209hh- The Simile of the Wet Sticks</text>
+        </navLabel>
+        <content src="Text/209hh-%20The%20Simile%20of%20the%20Wet%20Sticks.html"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>210hh- How To Let Go</text>
+        </navLabel>
+        <content src="Text/210hh-%20How%20To%20Let%20Go%20-%20How%20to%20let%20go.html"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>212hh- How to be Happy</text>
+        </navLabel>
+        <content src="Text/212hh-%20How%20to%20be%20Happy.html"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>215hh- Mindfulness Of Breathing And Calming Of The Aversion</text>
+        </navLabel>
+        <content src="Text/215hh-%20Mindfulness%20Of%20Breathing%20And%20Calming%20Of%20The%20Aversion.html"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>223hh- Practice Of Generosity</text>
+        </navLabel>
+        <content src="Text/223hh-%20Practice%20Of%20Generosity.html"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>230hh- Stilling Of All Activities</text>
+        </navLabel>
+        <content src="Text/230hh-%20Stilling%20Of%20All%20Activities.html"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>235hh- Escape From The Body</text>
+        </navLabel>
+        <content src="Text/235hh-%20Escape%20From%20The%20Body.html"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>236hh- Desire To End Desire</text>
+        </navLabel>
+        <content src="Text/236hh-%20Desire%20to%20end%20desire.html"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>247hh- Discerning The Body For Uprooting Of Sensuality</text>
+        </navLabel>
+        <content src="Text/247hh-%20Discerning%20The%20Body%20For%20Uprooting%20Of%20Sensuality.html"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>257hh- Only The Noble Truth Of Pain</text>
+        </navLabel>
+        <content src="Text/257hh-%20Only%20The%20Noble%20Truth%20Of%20Pain.html"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>258hh- Simile of The Son’s Flesh</text>
+        </navLabel>
+        <content src="Text/258hh-%20Simile%20of%20The%20Sons%20Flesh.html"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>PĀLI GLOSSARY</text>
+        </navLabel>
+        <content src="Text/Pāli%20Glossary.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>ABBREVIATIONS</text>
+        </navLabel>
+        <content src="Text/Abbreviations.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

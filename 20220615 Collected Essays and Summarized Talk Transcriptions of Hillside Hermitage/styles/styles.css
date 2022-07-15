@@ -1,0 +1,155 @@
+/*------------
+ Embed Font
+------------*/
+  @font-face {
+  src: url(../Fonts/NotoSans-Bold.ttf);
+  font-family: "Noto Sans";
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  }
+  @font-face {
+  src: url(../Fonts/NotoSans-BoldItalic.ttf);
+  font-family: "Noto Sans";
+  font-weight: bold;
+  font-style: italic;
+  font-stretch: normal;
+  }
+  @font-face {
+  src: url(../Fonts/NotoSans-Italic.ttf);
+  font-family: "Noto Sans";
+  font-weight: normal;
+  font-style: italic;
+  font-stretch: normal;
+  }
+  @font-face {
+  src: url(../Fonts/NotoSans-Regular.ttf);
+  font-family: "Noto Sans";
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  }
+@font-face {
+  src: url(../Fonts/NotoSerif-Bold.ttf);
+  font-family: "Noto Serif";
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  }
+  @font-face {
+  src: url(../Fonts/NotoSerif-BoldItalic.ttf);
+  font-family: "Noto Serif";
+  font-weight: bold;
+  font-style: italic;
+  font-stretch: normal;
+  }
+  @font-face {
+  src: url(../Fonts/NotoSerif-Italic.ttf);
+  font-family: "Noto Serif";
+  font-weight: normal;
+  font-style: italic;
+  font-stretch: normal;
+  }
+  @font-face {
+  src: url(../Fonts/NotoSerif-Regular.ttf);
+  font-family: "Noto Serif";
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  }
+
+  /*------------
+ Layout
+------------*/
+body {
+font-family: "Noto Serif", serif;
+}
+p {
+    margin-bottom: 1em;
+    text-indent: 0;
+}
+
+.quotequestion {
+margin-bottom: -2.4em;
+}
+
+/*------------
+ blockquote
+------------*/
+
+blockquote {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  margin-left: 3em;
+  text-indent: 0em;
+}
+
+.pali {
+  font-weight: normal;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+.translation {
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+.english {
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+/*------------
+ Title Page
+------------*/
+
+.title {
+ text-align: center;
+  font-size: 250%
+}
+
+.author {
+font-family: "Noto Sans", sans-serif;
+text-align: center;
+font-size: 180%
+}
+
+
+/*------------
+ TOC
+------------*/
+div.sgc-toc-title {
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+div.sgc-toc-level-1 {
+    margin-left: 0em;
+}
+
+div.sgc-toc-level-2 {
+    margin-left: 2em;
+}
+
+div.sgc-toc-level-3 {
+    margin-left: 2em;
+}
+
+div.sgc-toc-level-4 {
+    margin-left: 2em;
+}
+
+div.sgc-toc-level-5 {
+    margin-left: 2em;
+}
+
+div.sgc-toc-level-6 {
+    margin-left: 2em;
+}
